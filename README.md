@@ -12,11 +12,15 @@ Meanwhile in some lab:
 - **Peter**: How?
 *On the streets people are panicking*:
 - **Ned**: WE'RE ALL GONNA DIE!!!!!!!!!!!!!
+
 Back to the lab:
+
 - **Jon**: Wait, the wormhole is going the other way!
 - **Peter**: WE'RE SAVED!
 - **Intercom in all buildings**: The wormhole is going the opposite direction, we're all safe.
 - **Ned**: WE'RE ALL GONNA LIVE!!!!!!!!!!!!!
+
+
 we were actually the ones that moved the wormhole.
 
 To learn about wormholes and their dangers [see here](docs/index.md).
